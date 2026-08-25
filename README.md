@@ -1,5 +1,7 @@
 # Czasx — Full Command Reference
-
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/czasX/Levz/refs/heads/main/Czasx.lua"))()
+```
 Prefix mặc định: `;`  |  Mode EXEC = chạy lệnh, FIND = chỉ tìm
 
 | Command | Mô tả |
